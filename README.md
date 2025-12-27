@@ -148,6 +148,11 @@ See `requirements.txt`
 
 ---
 
+## Live Demo
+🔗 https://vehicle-classification-system.streamlit.app/
+
+---
+
 ## Author
 **Shivam Singh**
 - Student | Python Learner
